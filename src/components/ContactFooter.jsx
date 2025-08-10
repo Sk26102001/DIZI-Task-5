@@ -13,7 +13,13 @@ export default function ContactFooter() {
       <span className="text-purple-500">TuT</span>Star
     </h2>
   </div>
+ 
 </div>
+ <div>
+  <h2 className="font-bold text-center">Tutstar Online Courses</h2>
+  <p className="text-center break-words whitespace-normal max-w-full mb-5">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam debitis eum vitae aut impedit officia quasi culpa voluptatem tempora consectetur!</p>
+    
+  </div>
 
 
         
