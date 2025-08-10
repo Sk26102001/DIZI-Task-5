@@ -19,7 +19,7 @@ sretirg tha bagt nois-sticnal clattcem'
 
   {/* Laptop image */}
   <img
-    src="/laptop-removebg-preview.png"
+    src="./laptop-removebg-preview.png"
     alt="Laptop with books"
     className="relative z-10 -top-7 drop-shadow-2xl mx-auto"
   />

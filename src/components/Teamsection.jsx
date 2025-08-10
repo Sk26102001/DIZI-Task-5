@@ -2,8 +2,8 @@ import React from "react";
 import { CiLinkedin } from "react-icons/ci";
 export default function TeamSection() {
   const team = [
-    { name: "Priya Ray", role: "Founder, CEO", img: "/ifounder-removebg-preview.png" },
-    { name: "Priya Ray", role: "Founder, CEO", img: "/ifounder-removebg-preview.png" },
+    { name: "Priya Ray", role: "Founder, CEO", img: "./ifounder-removebg-preview.png" },
+    { name: "Priya Ray", role: "Founder, CEO", img: "./ifounder-removebg-preview.png" },
   ];
 
   return (

@@ -9,7 +9,7 @@ export default function FounderSection() {
         For too long, students were treated as testers for expensive... Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta porro autem magni sint quaerat ex magnam praesentium debitis, molestiae sequi aliquam quae quibusdam corrupti ratione officiis fugiat fuga dignissimos dolorum architecto culpa tenetur cupiditate velit minus? Velit deserunt ratione voluptatibus ducimus optio culpa asperiores aperiam molestiae qui labore, vero ad.
       </p>
 <img
-  src="/ifounder-removebg-preview.png"
+  src="./ifounder-removebg-preview.png"
   alt="Founder"
   className=" w-50 h-40 object-cover mx-auto drop-shadow-[30px_0_20px_rgba(168,85,247,0.8)]"
 />
